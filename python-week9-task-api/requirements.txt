@@ -1,0 +1,9 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-Migrate
+Flask-Cors
+Werkzeug
+pytest
+python-dotenv
